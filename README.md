@@ -48,6 +48,12 @@ We would like to maintain a complete list of NAS-related papers and provide a gu
 
 |Year |  Title  |  Code   |
 |:--------|:--------|:--------:|
+| | [ ]() <br> **</br>|   |
+| | [ ]() <br> **</br>|   |
+| | [ ]() <br> **</br>|   |
+| | [ ]() <br> **</br>|   |
+| 2022 | [Mixed-Block Neural Architecture Search for Medical Image Segmentation](https://arxiv.org/abs/2202.11401) <br> **</br>|   |
+| 2021 | [BiX-NAS: Searching Efficient Bi-directional Architecture for Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_22) | <br>* accepted at MICCAI'21 * </br> |   |
 | 2020 | [Deep Convolution Features in Non-linear Embedding Space for Fundus Image Classification(Dondeti et al. 2020)](http://www.iieta.org/journals/ria/paper/10.18280/ria.340308)  <br>*accepted at Revue d’Intelligence Artificielle*  |   |
 | 2020 | [Searching Collaborative Agents for Multi-plane Localization in 3D Ultrasound(Huang et al. 2020)](https://arxiv.org/abs/2007.15273)  <br>*accepted at MICCAI 2020*  |   |
 | 2020 | [Multi-Modality Information Fusion for Radiomics-based Neural Architecture Search(Peng et al. 2020)](https://arxiv.org/abs/2007.06002)  <br>*accepted at MICCAI 2020*  |   |
